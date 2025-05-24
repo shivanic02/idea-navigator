@@ -28,7 +28,7 @@ class Config:
     # CHOOSE YOUR CLAUDE MODEL:
     # Opus is most powerful, Sonnet is a balance, Haiku is fastest and most affordable.
     # Examples: "claude-3-opus-20240229", "claude-3-sonnet-20240229", "claude-3-haiku-20240307"
-    MODEL_NAME = os.getenv('claude-3-haiku-20240307',"anthropic/claude-sonnet-4-0") # CHANGED
+    MODEL_NAME = os.getenv('claude-3-haiku-20240307',"claude-sonnet-4-20250514") # CHANGED
     
     CONFIDENCE_THRESHOLD = 0.7
     ANTHROPIC_API_VERSION = "2023-06-01" # Recommended by Anthropic
