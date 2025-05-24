@@ -35,8 +35,6 @@ Once a user submits their idea, the system walks through a structured, multi-lay
 - **CrewAI** – Multi-agent orchestration
 - **Anthropic Claude 3** – LLM reasoning and analysis
 - **Serper API** – Live web search
-- **Langchain**
-- **ChromaDB** 
 - **HTML**
 - **CSS**
 - **Javascript**
