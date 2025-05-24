@@ -36,9 +36,10 @@ Once a user submits their idea, the system walks through a structured, multi-lay
 - **Anthropic Claude 3** – LLM reasoning and analysis
 - **Serper API** – Live web search
 - **Langchain**
-- **ChromaDB** (optional, for embedding future features)
-- **Docker** (recommended for deployment)
-
+- **ChromaDB** 
+- **HTML**
+- **CSS**
+- **Javascript**
 ---
 
 ## 📦 Setup Instructions
