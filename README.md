@@ -3,6 +3,9 @@
 **Validate Startup Ideas with AI — Instantly.**  
 A multi-agent system that deeply evaluates startup ideas across five strategic layers using Anthropic Claude, Serper, and CrewAI.
 
+> 🏆 This project was built as part of **AgentHacks 2025** under the **Agentic Systems & Workflow Automation** track —  
+> *"Understanding and automating end-to-end workflows and mental models."*
+
 ---
 
 ## 🚀 Overview
