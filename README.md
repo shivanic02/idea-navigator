@@ -1,4 +1,4 @@
-# 💡 IdeaForge AI
+# 💡 Idea Navigator
 
 **Validate Startup Ideas with AI — Instantly.**  
 A multi-agent system that deeply evaluates startup ideas across five strategic layers using Anthropic Claude, Serper, and CrewAI.
@@ -11,7 +11,7 @@ A multi-agent system that deeply evaluates startup ideas across five strategic l
 ## 🚀 Overview
 
 Startup founders often face uncertainty when validating their ideas, especially without access to expensive consulting or market research tools.  
-**IdeaForge AI** bridges that gap by acting as a **real-time idea analyst agent** powered by **Claude 3** and web-search tools, giving structured and actionable feedback across five business-critical dimensions.
+**Idea Navigator** bridges that gap by acting as a **real-time idea analyst agent** powered by **Claude 3** and web-search tools, giving structured and actionable feedback across five business-critical dimensions.
 
 ---
 
